@@ -32,3 +32,29 @@
 .bg div:nth-child(3){
     float: right;
 }
+
+
+.bgSecond{
+    background: rgb(83, 49, 49);
+    width: 600px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+.fourth{
+    background: rgb(255, 238, 0);
+    height: 100px;
+    width: 100px;
+}
+.fifth{
+    background: rgb(132, 0, 255);
+    height: 100px;
+    width: 100px;
+}
+.sixth{
+    background: rgb(0, 255, 0);
+    height: 100px;
+    width: 100px;
+}
